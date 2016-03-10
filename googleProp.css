@@ -1,0 +1,93 @@
+html{
+  height: 100%;
+}
+body{
+  min-width: 100%;
+  font-family: "lato", calibri, arial, sans serif;
+}
+.mainBox{
+ max-width: 101%;
+ height: 30px;
+ background-color: grey;
+ display: flex;
+ justify-content: space-between;
+ margin: -14px 0px 50px -8px;
+ min-width: 750px;
+}
+
+p{
+ display: inline-block;
+ margin: 8px;
+}
+p a{
+ text-decoration: none;
+ color: inherit;
+}
+
+a:hover{
+ color: blue;
+ font-weight: bolder;
+}
+
+.boxTwo{
+  display: flex;
+}
+
+#wheel img{
+ display: block;
+ margin: auto;
+}
+
+img{
+ display: block;
+ margin: auto;
+}
+
+.photo input{
+ text-align: center;
+}
+
+.searchBox{
+ width:650px;
+ height:30px;
+ border-style:outset;
+
+}
+
+.searchArea{
+ max-width: 750px;
+ min-width: 750px;
+ display: flex;
+ text-align: center;
+ margin: auto;
+ position: relative;;
+
+}
+
+.tools a{
+ text-decoration: none;
+ font-size: 14px;
+ margin-left: 3px;
+}
+.footer{
+ text-align: center;
+}
+
+.footer a{
+ text-decoration: none;
+ color: blue;
+}
+
+#copyRight{
+ font-size: 12px;
+}
+
+.written{
+ background-color: lightgrey;
+ margin-top: 5px;
+ font-size: 18px;
+}
+
+.change{
+  color: blue;
+}

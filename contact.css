@@ -1,0 +1,36 @@
+fieldset{
+  border: none;
+}
+body{
+  background-color: grey;
+}
+input{
+  margin-bottom: 5px;
+}
+.header{
+  padding-top: 15px;
+}
+
+.header a{
+ text-decoration: none;
+ font-size: 26px;
+ margin-top: 20px;
+}
+
+.head{
+ background-color: brown;
+ height: 50px;
+ margin: -8px -8px 0px -8px;
+ text-align: left;
+ margin-top: px;
+}
+
+.container{
+  width: 350px;
+  text-align: center;
+  border-style: outset;
+  border-color: brown;
+  border-width: thick;
+  margin: 15% 25% 35% 35%;
+  padding-bottom: 15px;
+}

@@ -1,0 +1,215 @@
+body{
+  width: 100%;
+  height: 100%;
+  font-family: "lucida grande", tahoma, helvetica, roboto;
+}
+
+.header{
+  width: 101%;
+  height: 85px;
+  background-color: #3a5795;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.containerH{
+  width: 985px;
+  text-align: center;
+  margin: auto;
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.headSideLeft{
+  width:565px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.headSideLeft a{
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 36px;
+
+}
+
+.headSideRight{
+  width: 400px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: #ffffff;
+}
+
+.headSideRight a{
+  color: #9daccb;
+  text-decoration: none;
+
+}
+
+#underline:hover{
+  text-decoration: underline;
+}
+
+.auth {
+  width: 150px;
+}
+
+input{
+  margin-top: 5px;
+
+}
+
+button{
+  background-color: #5b75ab;
+  color:#ffffff;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+}
+
+.midPage{
+  width: 100%;
+  background-color: #edf0f5
+}
+
+.containerM{
+  width: 985px;
+  text-align: center;
+  margin: auto;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.midSideLeft{
+  width: 565px;
+  color: #333333;
+  font-size: 26px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 40px;
+}
+
+.midSideRight{
+  width: 400px;
+  color: #333333;
+  text-align: left;
+  padding-right: 12px;
+
+}
+
+.big{
+  font-size: 35px;
+
+}
+
+.free{
+  font-size: 18px;
+  margin-bottom: -8px;
+}
+
+fieldset{
+  border: 0px;
+  margin-top: 5px;
+  margin-left: -10px;
+  font-size: 12px;
+}
+
+.form{
+  font-size: 20px;
+}
+
+.long{
+  width: 397px;
+  height: 40px;
+  border: 1px;
+  border-color: inherit;
+  border-radius: 5px;
+  margin-bottom: 5px
+
+}
+
+.names{
+  width: 194px;
+  height: 40px;
+  border: 1px;
+  border-color: inherit;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.reasons{
+  display: flex;
+}
+
+.calender{
+  width: 65px;
+  height: 30px;
+}
+
+.why{
+  font-size: 8px;
+  margin-top: 3px;
+  margin-left: 5px;
+}
+
+.why a{
+  text-decoration: none;
+  color: blue;
+}
+
+.why a:hover{
+  text-decoration: underline;
+}
+
+.disclaimer{
+  font-size: 12px;
+}
+
+.celeb{
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+p a{
+  text-decoration: none;
+  color: blue;
+}
+
+p a:hover{
+  text-decoration: underline;
+}
+
+.button{
+  width: 194px;
+  border-radius: 5px;
+  background-color: green;
+  color:#ffffff;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
+
+.footer{
+  width: 101%;
+  height: 135px;
+
+}
+
+.containerF{
+  width: 985px;
+  text-align: center;
+
+}

@@ -1,0 +1,54 @@
+body{
+  width: 100%;
+  text-align: center;
+  margin: auto;
+}
+
+#row{
+  width: 90%;
+  text-align: center;
+  margin: auto;
+
+}
+
+#thumbNail{
+  text-align: center;
+  margin: auto;
+  /*min-height: 600px;*/
+  /*max-height: 600px;*/
+}
+
+img{
+  width: 50%;
+}
+
+.header{
+  width: 101%;
+  height: 85px;
+  background-color: #3a5795;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+ul {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-between;
+
+}
+
+.container{
+  width: 90%;
+}
+
+.con2{
+  text-align: left;
+  margin: 10px;
+}
+
+#form{
+  text-align: left;
+}

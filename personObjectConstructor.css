@@ -1,0 +1,26 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.con2{
+  width: 300px;
+  border: solid;
+  border-width: 2px;
+  text-align: left;
+  margin: auto;
+}
+
+form{
+  margin: 5px;
+}
+
+table tr td{
+  border: solid;
+  border-width: 1px;
+}
+
+table th{
+  border: solid;
+  border-width: 2px;
+}

@@ -1,0 +1,25 @@
+.container{
+  width: 184px;
+  background-color: brown;
+  display: block;
+  margin: auto;
+}
+td {
+
+  text-align: center;
+  margin: auto;
+
+
+}
+
+#display{
+  width: 180px;
+  height: 30px;
+  border: solid;
+  border-width: 1px;
+  font-size: 18px;
+  font-weight: bold;
+}
+input{
+  width: 40px;
+}
